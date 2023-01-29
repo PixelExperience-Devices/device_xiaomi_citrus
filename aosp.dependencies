@@ -1,0 +1,14 @@
+[
+  { 
+    "repository"   : "vendor_xiaomi_citrus",
+    "target_path"  : "vendor/xiaomi/citrus",
+    "branch"       : "thirteen",
+    "remote"       : "pixel-devices-blobs"
+  },
+  {
+    "repository"   : "device_xiaomi_chime",
+    "target_path"  : "device/xiaomi/chime",
+    "remote"       : "pixel-devices",
+    "branch"       : "thirteen"
+  }
+]
